@@ -2,7 +2,7 @@
 ## um pequeno botão que gera um modal para preeenchimento de form
 
 
-#modelo simples de modal para preenchimento de formulário
+# modelo simples de modal para preenchimento de formulário feito com Jquery
 
 
 
